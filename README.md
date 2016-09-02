@@ -17,8 +17,8 @@
 <a href="https://github.com/reactotron/reactotron">reactotron</a>
 
 #Articles
-<a href="https://medium.com/@sachagreif/the-state-of-javascript-front-end-frameworks-1a2d8a61510#.d5rpzz4pc">The State Of JavaScript: Front-End Frameworks</a>
-<a href="https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks">You SHOULD Learn Vanilla JavaScript Before JS Frameworks - Snipcart</a>
+- <a href="https://medium.com/@sachagreif/the-state-of-javascript-front-end-frameworks-1a2d8a61510#.d5rpzz4pc">The State Of JavaScript: Front-End Frameworks</a>
+- <a href="https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks">You SHOULD Learn Vanilla JavaScript Before JS Frameworks - Snipcart</a>
 
 #Videos
 <a href="https://www.youtube.com/watch?v=sBzRwzY7G-k">2016/2017 MUST-KNOW WEB DEVELOPMENT TECH - Watch this if you want to be a web developer </a>
